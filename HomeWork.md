@@ -2,4 +2,5 @@
  Блок схема 1 задание![HW01/Blok01](HW01/Blok01.png) Код 1 задания [HW01/Program.cs) ](HW01/Program.cs) 
 
  # Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
-  Блок схема 2 задание![HW2/Blok02](HW2/Blok02.png) Код 2 задания [HW02/Program.cs](HW02Program.cs) 
+  Блок схема 2 задание![HW2/Blok02](HW2/Blok02.png) Код 2 задания [HW2/Program.cs](HW2/Program.cs) 
+  
